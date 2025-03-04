@@ -1,0 +1,7 @@
+{
+  "name": "pms_docs",
+  "version": "1.0.0",
+  "description": "pms raw manuals",
+  "main": "index.md",
+  "license": "MIT"
+}
