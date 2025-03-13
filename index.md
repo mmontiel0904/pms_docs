@@ -14,6 +14,7 @@
       4. [Invoices Paid by Credit Card](yardi_voyager/ap/Invoices_Paid_by_Credit_Card.md)
    3. GL
       1. [GL Account Setup](./yardi_voyager/gl/GL_Account_Setup.md)
+      2. [Create a Journal Entry](yardi_voyager/gl/Create_Journal_Entry.md)
 2. Yardi Breeze
    1. [Bank Transactions Feed](./yardi_breeze/br/Bank_Transactions_Feed.md)
    2. [Reconcile account](./yardi_breeze/br/Bank_Reconciliation.md)
