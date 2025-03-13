@@ -8,10 +8,12 @@
       2. [Bank Reconciliation](./yardi_voyager/br/Bank_Reconciliation.md)
       3. [Bank Account Set up](./yardi_voyager/br/Bank_Account_Setup.md)
    2. AP
-      1. [AP Adjustments Workflow](./yardi_voyager/ap/AP_Adjustments_Workflow.md)
-      2. [Processing Adjustments](yardi_voyager/ap/Processing_Adjustment.md)
-      3. [Vendor Refunds](yardi_voyager/ap/Vendor_Refunds.md)
-      4. [Invoices Paid by Credit Card](yardi_voyager/ap/Invoices_Paid_by_Credit_Card.md)
+   3. GL
+      1. [GL Account Setup](./yardi_voyager/gl/GL_Account_Setup.md)
+      2. [AP Adjustments Workflow](./yardi_voyager/ap/AP_Adjustments_Workflow.md)
+      3. [Processing Adjustments](yardi_voyager/ap/Processing_Adjustment.md)
+      4. [Vendor Refunds](yardi_voyager/ap/Vendor_Refunds.md)
+      5. [Invoices Paid by Credit Card](yardi_voyager/ap/Invoices_Paid_by_Credit_Card.md)
 2. Yardi Breeze
    1. [Bank Transactions Feed](./yardi_breeze/br/Bank_Transactions_Feed.md)
    2. [Reconcile account](./yardi_breeze/br/Bank_Reconciliation.md)
