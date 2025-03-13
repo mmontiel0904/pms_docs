@@ -11,6 +11,7 @@
       1. [AP Adjustments Workflow](./yardi_voyager/ap/AP_Adjustments_Workflow.md)
       2. [Processing Adjustments](yardi_voyager/ap/Processing_Adjustment.md)
       3. [Vendor Refunds](yardi_voyager/ap/Vendor_Refunds.md)
+      4. [Invoices Paid by Credit Card](yardi_voyager/ap/Invoices_Paid_by_Credit_Card.md)
 2. Yardi Breeze
    1. [Bank Transactions Feed](./yardi_breeze/br/Bank_Transactions_Feed.md)
    2. [Reconcile account](./yardi_breeze/br/Bank_Reconciliation.md)
