@@ -13,10 +13,13 @@
     2. [Processing Adjustments](yardi_voyager/ap/Processing_Adjustment.md)
     3. [Vendor Refunds](yardi_voyager/ap/Vendor_Refunds.md)
     4. [Invoices Paid by Credit Card](yardi_voyager/ap/Invoices_Paid_by_Credit_Card.md)
-3.  GL 📔
+3.  AR 💵
+    1.  [Move In (Residential)](./yardi_voyager/ar/Residential_Move_In.md)
+    2.  [Move In (Commercial)](./yardi_voyager/ar/Commercial_Move_In.md)
+4.  GL 📔
     1. [GL Account Setup](./yardi_voyager/gl/GL_Account_Setup.md)
     2. [Create a Journal Entry](yardi_voyager/gl/Create_Journal_Entry.md)
-4.  Import / Export Data 📥
+5.  Import / Export Data 📥
     1. [CSV Import](yardi_voyager/import_and_export/CSV_Imports.md)
     2. [CSV Format/Columns Specifications](yardi_voyager/import_and_export/Formats_and_Template_Files_for_CSV.md)
 
