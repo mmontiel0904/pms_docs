@@ -12,13 +12,13 @@ This procedure describes how to record a credit card payment made outside of Bre
 1. Go to **Accounting > Accounts Payable > Payables**.
 2. Click **Add New**. The **New Payable** screen appears.
 
-   ![New Payable](images/BreezeDocs/cc_payables_using_01.png)
+   ![New Payable](images/cc_payables_using_01.png)
 
 3. Select the **Credit Card** checkbox. In place of the **Cash Account** field, there is a new one: the **CC Vendor** field.
 4. Select the CC vendor and complete the rest of the screen as you normally would.
 5. When you save, the payable is marked as paid, and the **Cash Account** and **AP Account** fields show the accounts set up for credit cards.
 
-   ![Payable Marked as Paid](images/BreezeDocs/cc_payables_using_05.png)
+   ![Payable Marked as Paid](images/cc_payables_using_05.png)
 
 ## Creating a Payable to the Credit Card Company
 
