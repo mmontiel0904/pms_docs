@@ -31,5 +31,8 @@
    1. [Bank Transactions Feed](./yardi_breeze/br/Bank_Transactions_Feed.md)
    2. [Reconcile account](./yardi_breeze/br/Bank_Reconciliation.md)
    3. [Bank Transactions Import](./yardi_breeze/br/Import_Bank_Transactions.md)
+   4. [Credit Cards](yardi_breeze/br/Credit_Card.md)
+      1. [Credit Card Payables](./yardi_breeze/br/Credit_Card_Payables.md)
+      2. [Usin CC Payables](./yardi_breeze/br/Using_Credit_Card_Payables.md)
 
 ---
