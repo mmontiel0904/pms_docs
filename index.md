@@ -11,8 +11,12 @@
 2.  AP 📃
     1. [AP Adjustments Workflow](./yardi_voyager/ap/AP_Adjustments_Workflow.md)
     2. [Processing Adjustments](yardi_voyager/ap/Processing_Adjustment.md)
-    3. [Vendor Refunds](yardi_voyager/ap/Vendor_Refunds.md)
-    4. [Invoices Paid by Credit Card](yardi_voyager/ap/Invoices_Paid_by_Credit_Card.md)
+    3. [Vendor Set Up](/yardi_voyager/ap/Vendor_Setup.md)
+    4. [Vendor Refunds](yardi_voyager/ap/Vendor_Refunds.md)
+    5. [Invoices Paid by Credit Card](yardi_voyager/ap/Invoices_Paid_by_Credit_Card.md)
+    6. AP Settings
+       1. [Payable Accounts](yardi_voyager/ap/Payable_Accounts.md)
+       2. [Payables Display Types](yardi_voyager/ap/Payables_Display_Type.md)
 3.  AR 💵
     1.  [Move In (Residential)](./yardi_voyager/ar/Residential_Move_In.md)
     2.  [Move In (Commercial)](./yardi_voyager/ar/Commercial_Move_In.md)
