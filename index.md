@@ -21,6 +21,8 @@
     1.  [Move In (Residential)](./yardi_voyager/ar/Residential_Move_In.md)
     2.  [Move In (Commercial)](./yardi_voyager/ar/Commercial_Move_In.md)
     3.  [Leases](./yardi_voyager/ar/Leases.md)
+    4.  [Move Out(Residential)](./yardi_voyager/ar/Residential_Notices_and_Move_Outs.md)
+    5.  [Move Out (Commercial)](yardi_voyager/ar/Commercial_Move_Outs.md)
 4.  GL 📔
     1. [GL Account Setup](./yardi_voyager/gl/GL_Account_Setup.md)
     2. [Create a Journal Entry](yardi_voyager/gl/Create_Journal_Entry.md)
