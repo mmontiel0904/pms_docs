@@ -23,7 +23,9 @@
 4.  GL 📔
     1. [GL Account Setup](./yardi_voyager/gl/GL_Account_Setup.md)
     2. [Create a Journal Entry](yardi_voyager/gl/Create_Journal_Entry.md)
-5.  Import / Export Data 📥
+5.  Settings
+    1.  [Accounts and Options](./yardi_voyager/settings/Resident_Options.md)
+6.  Import / Export Data 📥
     1. [CSV Import](yardi_voyager/import_and_export/CSV_Imports.md)
     2. [CSV Format/Columns Specifications](yardi_voyager/import_and_export/Formats_and_Template_Files_for_CSV.md)
 
