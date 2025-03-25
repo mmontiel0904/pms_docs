@@ -23,6 +23,7 @@
     3.  [Leases](./yardi_voyager/ar/Leases.md)
     4.  [Move Out(Residential)](./yardi_voyager/ar/Residential_Notices_and_Move_Outs.md)
     5.  [Move Out (Commercial)](yardi_voyager/ar/Commercial_Move_Outs.md)
+    6.  [Charges Creation](./yardi_voyager/ar/Creating_Tenant_Charges.md)
 4.  GL 📔
     1. [GL Account Setup](./yardi_voyager/gl/GL_Account_Setup.md)
     2. [Create a Journal Entry](yardi_voyager/gl/Create_Journal_Entry.md)
