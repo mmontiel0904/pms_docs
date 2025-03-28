@@ -44,5 +44,7 @@
    4. [Credit Cards](yardi_breeze/br/Credit_Card.md)
       1. [Credit Card Payables](./yardi_breeze/br/Credit_Card_Payables.md)
       2. [Usin CC Payables](./yardi_breeze/br/Using_Credit_Card_Payables.md)
+2. AR 💵
+   1. [Move-ins](yardi_breeze/ar/Move-ins.md)
 
 ---
