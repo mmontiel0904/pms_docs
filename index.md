@@ -46,6 +46,7 @@
       2. [Usin CC Payables](./yardi_breeze/br/Using_Credit_Card_Payables.md)
 2. AR 💵
    1. [Move-ins](yardi_breeze/ar/Move-ins.md)
-   2. [Prospects Workflow](yardi_breeze/ar/Prospect_Workflow.md)
+   2. [Move-outs](yardi_breeze/ar/Move-Outs.md)
+   3. [Prospects Workflow](yardi_breeze/ar/Prospect_Workflow.md)
 
 ---
