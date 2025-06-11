@@ -2,6 +2,10 @@
 
 ## Index
 
+### AppFolio
+
+1. [Tecnical Documentation](./appfolio/technical_docs/Appfolio_API_Documentation.html)
+
 ### Yardi Voyager 🔵
 
 1.  BR 🏦
